@@ -1,17 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T11:54:21.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wD_DoksLesxZqm-IcPl-" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T12:06:17.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dYOVnurQEAeiJW_rl03_" version="17.4.5" type="github">
   <diagram id="rYMRLtgjihzEMAvb-8Mc" name="Page-1">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-1" target="KPbzfqOCU8eB1e6u4EOr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-1" target="KPbzfqOCU8eB1e6u4EOr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-1" target="KPbzfqOCU8eB1e6u4EOr-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KPbzfqOCU8eB1e6u4EOr-1" value="低资源中的知识抽取" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="130" y="410" width="200" height="60" as="geometry" />
+          <mxGeometry x="50" y="610" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-2" target="KPbzfqOCU8eB1e6u4EOr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-2" target="KPbzfqOCU8eB1e6u4EOr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-2" target="KPbzfqOCU8eB1e6u4EOr-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KPbzfqOCU8eB1e6u4EOr-2" value="低资源场景" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="410" y="150" width="200" height="60" as="geometry" />
+          <mxGeometry x="410" y="130" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KPbzfqOCU8eB1e6u4EOr-3" value="低资源场景" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="410" y="250" width="200" height="60" as="geometry" />
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-3" target="KPbzfqOCU8eB1e6u4EOr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-3" target="KPbzfqOCU8eB1e6u4EOr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-3" target="KPbzfqOCU8eB1e6u4EOr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-3" value="解决方案" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="410" y="610" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KPbzfqOCU8eB1e6u4EOr-4" value="Long-tail 场景" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="650" y="60" width="200" height="60" as="geometry" />
@@ -30,6 +57,114 @@
         </mxCell>
         <mxCell id="KPbzfqOCU8eB1e6u4EOr-10" value="零样本场景意味着，用于预测的测试样本从未出现在训练样本中。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="215" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-14" target="KPbzfqOCU8eB1e6u4EOr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-14" target="KPbzfqOCU8eB1e6u4EOr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-14" target="KPbzfqOCU8eB1e6u4EOr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-14" target="KPbzfqOCU8eB1e6u4EOr-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-14" value="利用高资源数据" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="372" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-15" value="开发更加强大的模型" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="610" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-16" value="同时关注数据和模型" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="830" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-17" value="多模态增强" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="880" y="260" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-18" value="入多模态样本，以补充文本中缺失的语义，帮助精确提取知识。直观地说，这种方法的主要挑战在于多模态的融合。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="270" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-19" value="弱监督增强" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="880" y="330" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-20" value="通过弱/远程监督自动生成训练数据，旨在调整更多数据。这种方法利用一个知识库和一些启发式规则来自动重新标记企业中的状态。当然，生成的训练集可能包含很多噪声，这就是此类方法受到弱监督的原因。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="330" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-21" value="多语言增强" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="880" y="400" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-22" value="导入多语言样本，与多模态增强类似，旨在获得更丰富、更稳健的样本表示。直觉上，这种方法的主要挑战是获得跨语言表达." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="410" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-23" value="辅助知识增强" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="880" y="470" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-24" value="利用外部知识作为补救措施，旨在更准确地学习样本的语义表示（包括文本、知识图谱、本体&amp;规则）。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="480" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-31" value="元学习" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="880" y="570" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-32" value="通过从少量实例中学习，迅速吸收新知识，推出新课程，具有“学会学习”的能力，自然适合于少量任务" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="580" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-33" value="迁移学习" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="880" y="640" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-34" value="通过转移学习到的表示和模型，特别是从高到低的资源，减少了对标记目标数据的需求。在这个调查中，我们考虑基于类相关语义和预训练语言表示的迁移学习方法" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="650" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-35" value="提示学习" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="880" y="710" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-36" value="通常包括一个要求模型做出特定预测的模式和一个将预测转换为类标签的描述器。即时学习的核心思想是在输入中插入文本片段，即模板，并将分类任务转化为一个隐藏的语言建模问题" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="720" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-37" value="多任务学习" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="880" y="800" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-38" value="通过联合利用任务通用共性和任务特定差异，同时学习多个相关任务，从而提高任务特定模型的学习效率和预测精度，这自然能够改善低资源场景中的目标任务" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="810" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-39" value="QA/MRC" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="880" y="880" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-40" value="将KE描述为QA/MRC将KE任务描述为问答（QA）/机器阅读理解（MRC）问题，这意味着实体、关系和事件的提取转化为从上下文中识别答案的任务。事实上，问题查询可以暗示目标任务的关键知识。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="880" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-41" value="检索增强" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="880" y="960" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-42" value="检索集成到预训练语言模型中，因此，通过简单地更新用于检索的数据，模型可以更高效地使用参数，并有效地实现域自适应" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="970" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-43" target="KPbzfqOCU8eB1e6u4EOr-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-43" target="KPbzfqOCU8eB1e6u4EOr-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-43" target="KPbzfqOCU8eB1e6u4EOr-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPbzfqOCU8eB1e6u4EOr-43" target="KPbzfqOCU8eB1e6u4EOr-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-43" value="一些基准数据集" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-49" value="Few-NERD" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1151" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-50" value="Few-Rel" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1230" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-51" value="Few-Rel2.0" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPbzfqOCU8eB1e6u4EOr-52" value="Entail-RE" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1390" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
