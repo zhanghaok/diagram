@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T08:48:51.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="WRiaN7cWkZw59j-B8kUo" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T08:50:34.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4A6NLtzFSO_Y2e4t90mg" version="18.0.2" type="github">
   <diagram id="qHJlk1hgKmQxaEFNO4w-" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,12 +72,6 @@
         </mxCell>
         <mxCell id="uOkbWrU7I8MvX4Vjijft-22" value="枚举或利用规则将抽取得到的实体对输入关系分类器得到实体之间的关系，完成关系抽取。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="70" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uOkbWrU7I8MvX4Vjijft-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uOkbWrU7I8MvX4Vjijft-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOkbWrU7I8MvX4Vjijft-28" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="340" width="60" height="30" as="geometry" />
