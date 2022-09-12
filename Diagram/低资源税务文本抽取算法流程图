@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T08:58:48.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="UVS-TRN4wad56zmFkIxr" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T08:30:44.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-ntyR2FT97YtZZO4Hy7a" version="20.3.0" type="github">
   <diagram id="qHJlk1hgKmQxaEFNO4w-" name="Page-1">
-    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,24 +20,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uOkbWrU7I8MvX4Vjijft-2" value="构造税务NSP任务数据集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOkbWrU7I8MvX4Vjijft-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uOkbWrU7I8MvX4Vjijft-3" target="uOkbWrU7I8MvX4Vjijft-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uOkbWrU7I8MvX4Vjijft-3" value="构造税务MLM任务数据集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uOkbWrU7I8MvX4Vjijft-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uOkbWrU7I8MvX4Vjijft-4" target="uOkbWrU7I8MvX4Vjijft-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="110" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOkbWrU7I8MvX4Vjijft-4" value="构造税务MLM任务标签" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOkbWrU7I8MvX4Vjijft-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uOkbWrU7I8MvX4Vjijft-9" target="uOkbWrU7I8MvX4Vjijft-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uOkbWrU7I8MvX4Vjijft-9" value="大规模语言模型在税务文本领域预训练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uOkbWrU7I8MvX4Vjijft-9" value="原始BERT继续在税务文本领域进行微调预训练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOkbWrU7I8MvX4Vjijft-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uOkbWrU7I8MvX4Vjijft-11" target="uOkbWrU7I8MvX4Vjijft-14" edge="1">
@@ -78,6 +75,21 @@
         </mxCell>
         <mxCell id="uOkbWrU7I8MvX4Vjijft-32" value="第二阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="540" y="550" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1UA-IiY_XpbQsJzKmjxU-1" value="加载原始BERT参数作为初始化权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UA-IiY_XpbQsJzKmjxU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169.41" y="370" as="sourcePoint" />
+            <mxPoint x="169.41" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UA-IiY_XpbQsJzKmjxU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169.41" y="450" as="sourcePoint" />
+            <mxPoint x="169.41" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
