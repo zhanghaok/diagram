@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T05:55:48.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.6.2" etag="33-SKxZmnA_rKGHxyJbu" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-26T06:08:54.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.6.2" etag="heR8MYE3pbHfaoEN8I37" type="github">
   <diagram id="KRKyHnvJllpocSslQ06i" name="第 1 页">
-    <mxGraphModel dx="3294" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4669" dy="2341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,14 @@
         </mxCell>
         <mxCell id="iUx2Ds71KsNqZJShA2Rj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iUx2Ds71KsNqZJShA2Rj-8" target="iUx2Ds71KsNqZJShA2Rj-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iUx2Ds71KsNqZJShA2Rj-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontColor=#CC0000;backgroundOutline=0;" edge="1" parent="1" source="iUx2Ds71KsNqZJShA2Rj-8" target="iUx2Ds71KsNqZJShA2Rj-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-750" y="215" />
+              <mxPoint x="-750" y="1096" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iUx2Ds71KsNqZJShA2Rj-8" value="是否命中缓存" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-450" y="150" width="170" height="130" as="geometry" />
@@ -113,8 +121,17 @@
         <mxCell id="iUx2Ds71KsNqZJShA2Rj-43" value="&lt;h1 style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Fira Code&amp;quot;, monospace; font-size: 10.5pt;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;使用RestTemplate远程调用HTTP接口&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="830" y="318.5" width="270" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="iUx2Ds71KsNqZJShA2Rj-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#CC0000;" edge="1" parent="1" source="iUx2Ds71KsNqZJShA2Rj-44" target="iUx2Ds71KsNqZJShA2Rj-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iUx2Ds71KsNqZJShA2Rj-44" value="&lt;div&gt;置信度最高的作为最终答案，其余的Top-K-1个作为推荐答案&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-425" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUx2Ds71KsNqZJShA2Rj-46" value="&lt;div&gt;加入redis缓存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUx2Ds71KsNqZJShA2Rj-48" value="更新redis用户对话状态u" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="1043" width="310" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
